@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cuvetteReact1/static/css/main.eae0c311.css",
+    "main.js": "/cuvetteReact1/static/js/main.b52f29cb.js",
+    "index.html": "/cuvetteReact1/index.html",
+    "main.eae0c311.css.map": "/cuvetteReact1/static/css/main.eae0c311.css.map",
+    "main.b52f29cb.js.map": "/cuvetteReact1/static/js/main.b52f29cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eae0c311.css",
+    "static/js/main.b52f29cb.js"
+  ]
+}
